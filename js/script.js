@@ -1,4 +1,4 @@
-const txtElement = ['Datang Di Website Crispy Cracker'];
+const txtElement = ['Datang Di Website Hidro Web'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
